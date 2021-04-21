@@ -1,0 +1,6 @@
+server:
+  port: 8888
+
+#person:
+#  name: 糖宝
+#  age: 3
